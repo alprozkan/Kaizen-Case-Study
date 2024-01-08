@@ -1,0 +1,14 @@
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\bin\Debug\net8.0\Kaizen Case Study.exe
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\bin\Debug\net8.0\Kaizen Case Study.deps.json
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\bin\Debug\net8.0\Kaizen Case Study.runtimeconfig.json
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\bin\Debug\net8.0\Kaizen Case Study.dll
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\bin\Debug\net8.0\Kaizen Case Study.pdb
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\obj\Debug\net8.0\Kaizen Case Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\obj\Debug\net8.0\Kaizen Case Study.AssemblyInfoInputs.cache
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\obj\Debug\net8.0\Kaizen Case Study.AssemblyInfo.cs
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\obj\Debug\net8.0\Kaizen Case Study.csproj.CoreCompileInputs.cache
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\obj\Debug\net8.0\Kaizen Case Study.dll
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\obj\Debug\net8.0\refint\Kaizen Case Study.dll
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\obj\Debug\net8.0\Kaizen Case Study.pdb
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\obj\Debug\net8.0\Kaizen Case Study.genruntimeconfig.cache
+C:\Users\alpro\OneDrive\Desktop\Kaizen\Kaizen Case Study\obj\Debug\net8.0\ref\Kaizen Case Study.dll

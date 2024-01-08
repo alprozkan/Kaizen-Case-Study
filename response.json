@@ -1,0 +1,43 @@
+{
+    "description": [
+        {
+            "text": "TE\u015eEKK\u00dcRLER",
+            "boundingBox": [
+                0,
+                0,
+                100,
+                0,
+                100,
+                50,
+                0,
+                50
+            ]
+        },
+        {
+            "text": "G\u00dcNE\u015eY\u00d6\u011eD\u00dc TEKS. GIDA \u0130N\u015e SAN. LTD. \u015eT\u0130.",
+            "boundingBox": [
+                0,
+                60,
+                200,
+                60,
+                200,
+                100,
+                0,
+                100
+            ]
+        },
+        {
+            "text": "\u00d6RNEKTEPE MAH.ET\u0130BANK CAD.SARAY APT.",
+            "boundingBox": [
+                0,
+                110,
+                250,
+                110,
+                250,
+                150,
+                0,
+                150
+            ]
+        }
+    ]
+}
